@@ -248,13 +248,14 @@ public class replace_demo implements ReplaceIPMI{
 
         //不等于空，且长度大于0；
         if(right_claiming_document != null && (right_claiming_document.length()>0)){
-            int First_Point_number_index = right_claiming_document.indexOf(".");  //返回第一个 点号 的索引值；
-            int First_comma_index = right_claiming_document.indexOf("，");  //返回第一个 逗号 的索引值；
+            String s = right_claiming_document.replaceAll("\\.", "").replaceAll("1", "").replaceAll(" ","");
+            //            int First_Point_number_index = right_claiming_document.indexOf(".");  //返回第一个 点号 的索引值；
+            int First_comma_index = s.indexOf("，");  //返回第一个 逗号 的索引值；
 
             //如果2个索引值，有1个是-1代表有问题，不进行调取猪蹄子的操作；
-            if( (First_comma_index != -1) && ( First_Point_number_index != -1) ){
+            if( (First_comma_index != -1)){
                 //返回主题值;并且剔除[一种]
-                substring = right_claiming_document.substring(First_Point_number_index+1, First_comma_index).replaceAll("一种","");
+                substring = right_claiming_document.substring(0, First_comma_index).replaceAll("一种","");
             }else {
                 //如果2个索引值，有1个是-1代表有问题，抛出error错误，浏览器接受处理；
                 return "error";

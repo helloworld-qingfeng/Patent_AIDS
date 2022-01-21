@@ -92,9 +92,15 @@ public class Replace_First_label_demo implements RepalceIPMI_First_label {
         }else if(number==1){
             //(反向替换)
             for(int i=0;i<CiZu.size();i++){
-                String Jiehe = CiZu.get(i)+"（"+YouKuoHao.get(i)+"）";  //词组和序列结合  挡板（12）；
-                claims=claims.replaceAll(YouKuoHao.get(i),Jiehe);   //反向替换;
+//                String Jiehe = CiZu.get(i)+"（"+YouKuoHao.get(i)+"）";  //词组和序列结合  挡板（12）；
+                claims=claims.replaceAll(YouKuoHao.get(i),CiZu.get(i));   //反向替换;先替换成文字
             }
+
+            for(int i=0;i<CiZu.size();i++){
+                String Jiehe = CiZu.get(i)+"（"+YouKuoHao.get(i)+"）";  //词组和序列结合  挡板（12）；
+                claims=claims.replaceAll(CiZu.get(i),Jiehe);   //文字替换成标号哦
+            }
+
             return claims;
         }
         return null;
@@ -105,7 +111,7 @@ public class Replace_First_label_demo implements RepalceIPMI_First_label {
      替换说明书实施例
     */
     @Override
-    public String Forward_Replacement_instructions(List<List<String>> list, String instructions,int number) {
+    public String Forward_Replacement_instructions(List<List<String>> list, String instructions,int number)     {
         List<String> YouKuoHao = list.get(0);  //序号;
         List<String> CiZu = list.get(list.size()-1);   //词组本身：
 
@@ -118,11 +124,15 @@ public class Replace_First_label_demo implements RepalceIPMI_First_label {
         }else if(number==1){
             //(反向替换)
             for(int i=0;i<CiZu.size();i++){
+//                String Jiehe = CiZu.get(i)+YouKuoHao.get(i);  //词组和序列结合  挡板12；
+                instructions=instructions.replaceAll(YouKuoHao.get(i),CiZu.get(i));
+            }
+
+            for(int i=0;i<CiZu.size();i++){
                 String Jiehe = CiZu.get(i)+YouKuoHao.get(i);  //词组和序列结合  挡板12；
-                instructions=instructions.replaceAll(YouKuoHao.get(i),Jiehe);
+                instructions=instructions.replaceAll(CiZu.get(i),Jiehe); //文字替换
             }
         }
-
 
         return instructions;
     }
@@ -170,13 +180,14 @@ public class Replace_First_label_demo implements RepalceIPMI_First_label {
 
         //不等于空，且长度大于0；
         if(right_claiming_document != null && (right_claiming_document.length()>0)){
-            int First_Point_number_index = right_claiming_document.indexOf(".");  //返回第一个 点号 的索引值；
-            int First_comma_index = right_claiming_document.indexOf("，");  //返回第一个 逗号 的索引值；
+            String s = right_claiming_document.replaceAll("\\.", "").replaceAll("1", "").replaceAll(" ","");
+            //            int First_Point_number_index = right_claiming_document.indexOf(".");  //返回第一个 点号 的索引值；
+            int First_comma_index = s.indexOf("，");  //返回第一个 逗号 的索引值；
 
             //如果2个索引值，有1个是-1代表有问题，不进行调取猪蹄子的操作；
-            if( (First_comma_index != -1) && ( First_Point_number_index != -1) ){
+            if( (First_comma_index != -1)){
                 //返回主题值;并且剔除[一种]
-                substring = right_claiming_document.substring(First_Point_number_index+1, First_comma_index).replaceAll("一种","");
+                substring = right_claiming_document.substring(0, First_comma_index).replaceAll("一种","");
             }else {
                 //如果2个索引值，有1个是-1代表有问题，抛出error错误，浏览器接受处理；
                 return "error";

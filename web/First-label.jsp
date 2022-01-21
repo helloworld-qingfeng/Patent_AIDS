@@ -263,13 +263,15 @@
     <%--}--%>
     <%--})({id:'menu',tag:'em'});--%>
     <%--</script>--%>
-
+        <a href="${pageContext.request.contextPath}/First-label-show.jsp" style="margin: 10px;"><font color="red">初次使用，图解说明！！</font></a>
     <div class="l2">
         <form action="/replace_First_label" method="post">
 
             <%--如果为空,显示常态的  附图标记框--%>
             <c:if test="${empty cizu }">
+
                 <div class="Reference-mark">
+
           <textarea name="Reference-mark" rows="8" cols="130" style="" placeholder="1、搅拌箱；2、电机；3、固定壳；4、转轴；41、外壳；42、花键通道；43、内腔；44、滑动腔；5、花键轴；6、气缸；7、搅拌机构；71、滑轴；72、搅拌轴；73、螺旋桨；74、振动装置。"></textarea>
                 </div>
             </c:if>
@@ -277,6 +279,9 @@
             <%--如果  不为空, 显示常态的  附图标记框--%>
             <c:if test="${not empty cizu }">
                 <div class="Reference-mark">
+                    <c:if test="${not empty YouChongFu}">
+                    <div><font color="red">附图标记词组有重复元素，系统过滤了进行标号了！</font></div>
+                    </c:if>
                     <textarea name="Reference-mark" rows="8" cols="130" style="" >${cizu}</textarea>
                     <font size="4px" color="green">🏂</font>
                 </div>

@@ -263,7 +263,7 @@
             <%--}--%>
         <%--})({id:'menu',tag:'em'});--%>
     <%--</script>--%>
-
+        <a href="${pageContext.request.contextPath}/Rear-label-show.jsp" style="margin: 10px;"><font color="red">初次使用，图解说明！！</font></a>
     <div class="l2">
         <form action="/replace_Read-label" method="post">
 

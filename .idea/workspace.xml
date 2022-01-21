@@ -2,11 +2,47 @@
 <project version="4">
   <component name="ArtifactsWorkspaceSettings">
     <artifacts-to-build>
-      <artifact name="Patent_AIDS:war exploded" />
+      <artifact name="Patent_AIDS:war" />
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="17a4c305-bc18-405c-8776-6fcfba3c29f6" name="Default" comment="" />
+    <list default="true" id="17a4c305-bc18-405c-8776-6fcfba3c29f6" name="Default" comment="">
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/artifacts/Patent_AIDS_war.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/web/First-label-show.jsp" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/web/Rear-label-show.jsp" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/web/img/088e7eb325b0ce3a988e19d1ece87bb.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/web/img/098a79ed2f8c4683819df5621692bd7.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/web/img/110ce77c4d17503eeab7f69e37f508f.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/web/img/69fa112188c2d89a6f7005fa84601c5.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/web/img/89721efc59113ae0c1ec6de4171461e.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/web/js/hovertreewelcome.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/web/test.jsp" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/Patent_AIDS" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Patent_AIDS.iml" afterPath="$PROJECT_DIR$/Patent_AIDS.iml" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Patent_AIDS_war/Patent_AIDS_war.war" afterPath="$PROJECT_DIR$/out/artifacts/Patent_AIDS_war/Patent_AIDS_war.war" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Patent_AIDS_war_exploded/First-label.jsp" afterPath="$PROJECT_DIR$/out/artifacts/Patent_AIDS_war_exploded/First-label.jsp" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Patent_AIDS_war_exploded/Rear-label.jsp" afterPath="$PROJECT_DIR$/out/artifacts/Patent_AIDS_war_exploded/Rear-label.jsp" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Patent_AIDS_war_exploded/WEB-INF/class/Service/replace_demo.class" afterPath="$PROJECT_DIR$/out/artifacts/Patent_AIDS_war_exploded/WEB-INF/class/Service/replace_demo.class" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Patent_AIDS_war_exploded/WEB-INF/classes/Service/Replace_First_label_demo.class" afterPath="$PROJECT_DIR$/out/artifacts/Patent_AIDS_war_exploded/WEB-INF/classes/Service/Replace_First_label_demo.class" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Patent_AIDS_war_exploded/WEB-INF/classes/Service/replace_demo.class" afterPath="$PROJECT_DIR$/out/artifacts/Patent_AIDS_war_exploded/WEB-INF/classes/Service/replace_demo.class" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Patent_AIDS_war_exploded/WEB-INF/classes/Servlet/replace_First_label.class" afterPath="$PROJECT_DIR$/out/artifacts/Patent_AIDS_war_exploded/WEB-INF/classes/Servlet/replace_First_label.class" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Patent_AIDS_war_exploded/WEB-INF/classes/javabean/test.class" afterPath="$PROJECT_DIR$/out/artifacts/Patent_AIDS_war_exploded/WEB-INF/classes/javabean/test.class" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Patent_AIDS_war_exploded/index.jsp" afterPath="$PROJECT_DIR$/out/artifacts/Patent_AIDS_war_exploded/index.jsp" />
+      <change beforePath="$PROJECT_DIR$/src/Service/Replace_First_label_demo.java" afterPath="$PROJECT_DIR$/src/Service/Replace_First_label_demo.java" />
+      <change beforePath="$PROJECT_DIR$/src/Service/replace_demo.java" afterPath="$PROJECT_DIR$/src/Service/replace_demo.java" />
+      <change beforePath="$PROJECT_DIR$/src/Servlet/replace_First_label.java" afterPath="$PROJECT_DIR$/src/Servlet/replace_First_label.java" />
+      <change beforePath="$PROJECT_DIR$/src/javabean/test.java" afterPath="$PROJECT_DIR$/src/javabean/test.java" />
+      <change beforePath="$PROJECT_DIR$/web/First-label.jsp" afterPath="$PROJECT_DIR$/web/First-label.jsp" />
+      <change beforePath="$PROJECT_DIR$/web/Rear-label.jsp" afterPath="$PROJECT_DIR$/web/Rear-label.jsp" />
+      <change beforePath="$PROJECT_DIR$/web/WEB-INF/class/Service/RepalceIPMI_First_label.class" afterPath="$PROJECT_DIR$/web/WEB-INF/class/Service/RepalceIPMI_First_label.class" />
+      <change beforePath="$PROJECT_DIR$/web/WEB-INF/class/Service/Replace_First_label_demo.class" afterPath="$PROJECT_DIR$/web/WEB-INF/class/Service/Replace_First_label_demo.class" />
+      <change beforePath="$PROJECT_DIR$/web/WEB-INF/class/Service/replace_demo.class" afterPath="$PROJECT_DIR$/web/WEB-INF/class/Service/replace_demo.class" />
+      <change beforePath="$PROJECT_DIR$/web/WEB-INF/class/Servlet/replace_First_label.class" afterPath="$PROJECT_DIR$/web/WEB-INF/class/Servlet/replace_First_label.class" />
+      <change beforePath="$PROJECT_DIR$/web/WEB-INF/class/javabean/test.class" afterPath="$PROJECT_DIR$/web/WEB-INF/class/javabean/test.class" />
+      <change beforePath="$PROJECT_DIR$/web/index.jsp" afterPath="$PROJECT_DIR$/web/index.jsp" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -17,55 +53,117 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="test.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/javabean/test.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="23">
-              <caret line="19" column="0" lean-forward="false" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="RepalceIPMI_First_label.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Service/RepalceIPMI_First_label.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="263">
-              <caret line="52" column="19" lean-forward="false" selection-start-line="52" selection-start-column="19" selection-end-line="52" selection-end-column="19" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="Replace_First_label_demo.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Service/Replace_First_label_demo.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="156">
-              <caret line="86" column="43" lean-forward="true" selection-start-line="86" selection-start-column="43" selection-end-line="86" selection-end-column="43" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="CiZu.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Service/CiZu.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="276">
-              <caret line="12" column="0" lean-forward="true" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+            <state relative-caret-position="196">
+              <caret line="144" column="18" lean-forward="false" selection-start-line="144" selection-start-column="18" selection-end-line="144" selection-end-column="18" />
               <folding>
-                <element signature="e#111#112#0" expanded="true" />
-                <element signature="e#152#153#0" expanded="true" />
+                <element signature="method#Forward_Replacement_instructions#0;class#Replace_First_label_demo#0" expanded="false" />
+                <element signature="method#Repair_old_and_new#0;class#Replace_First_label_demo#0" expanded="false" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="replace_First_label.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="replace_First_label.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Servlet/replace_First_label.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1674">
-              <caret line="112" column="64" lean-forward="false" selection-start-line="112" selection-start-column="64" selection-end-line="112" selection-end-column="64" />
+            <state relative-caret-position="-2043">
+              <caret line="88" column="75" lean-forward="false" selection-start-line="88" selection-start-column="75" selection-end-line="88" selection-end-column="75" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="First-label.jsp" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/web/First-label.jsp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-72">
+              <caret line="268" column="0" lean-forward="false" selection-start-line="268" selection-start-column="0" selection-end-line="268" selection-end-column="0" />
+              <folding>
+                <element signature="e#3002#3128#0#HTML" expanded="false" />
+                <element signature="e#3252#3379#0#HTML" expanded="false" />
+                <element signature="n#style#0;n#a#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Rear-label.jsp" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/web/Rear-label.jsp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="293">
+              <caret line="265" column="71" lean-forward="false" selection-start-line="265" selection-start-column="71" selection-end-line="265" selection-end-column="71" />
+              <folding>
+                <element signature="n#style#0;n#a#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Rear-label-show.jsp" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/web/Rear-label-show.jsp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="428">
+              <caret line="16" column="7" lean-forward="false" selection-start-line="16" selection-start-column="7" selection-end-line="16" selection-end-column="7" />
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="First-label-show.jsp" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/web/First-label-show.jsp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="347">
+              <caret line="14" column="50" lean-forward="false" selection-start-line="14" selection-start-column="50" selection-end-line="14" selection-end-column="50" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="hovertreewelcome.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/web/js/hovertreewelcome.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="2495" lean-forward="false" selection-start-line="0" selection-start-column="2495" selection-end-line="0" selection-end-column="2495" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.jsp" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/web/index.jsp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="567">
+              <caret line="21" column="21" lean-forward="false" selection-start-line="21" selection-start-column="21" selection-end-line="21" selection-end-column="21" />
+              <folding>
+                <element signature="n#script#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="replace.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Servlet/replace.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-4332">
+              <caret line="19" column="13" lean-forward="false" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="13" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="replace_demo.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Service/replace_demo.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-246">
+              <caret line="262" column="9" lean-forward="false" selection-start-line="262" selection-start-column="9" selection-end-line="262" selection-end-column="9" />
+              <folding>
+                <element signature="method#clean_cizu#0;class#replace_demo#0" expanded="false" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -75,8 +173,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Jsp File" />
         <option value="Class" />
+        <option value="Jsp File" />
       </list>
     </option>
   </component>
@@ -85,7 +183,12 @@
       <find>Reference-mark</find>
       <find>Check_duplicate</find>
       <find>checkIndex</find>
+      <find>right_claiming_document</find>
+      <find>hovertreecontainer</find>
     </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GradleLocalSettings">
     <option name="externalProjectsViewState">
@@ -95,14 +198,20 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/web/index.jsp" />
         <option value="$PROJECT_DIR$/web/JieShao.jsp" />
-        <option value="$PROJECT_DIR$/web/Rear-label.jsp" />
         <option value="$PROJECT_DIR$/src/Service/CiZu.java" />
         <option value="$PROJECT_DIR$/src/Service/RepalceIPMI_First_label.java" />
         <option value="$PROJECT_DIR$/src/javabean/test.java" />
         <option value="$PROJECT_DIR$/src/Service/Replace_First_label_demo.java" />
         <option value="$PROJECT_DIR$/src/Servlet/replace_First_label.java" />
+        <option value="$PROJECT_DIR$/web/js/hovertreewelcome.js" />
+        <option value="$PROJECT_DIR$/web/test.jsp" />
+        <option value="$PROJECT_DIR$/web/index.jsp" />
+        <option value="$PROJECT_DIR$/src/Service/replace_demo.java" />
+        <option value="$PROJECT_DIR$/web/First-label-show.jsp" />
+        <option value="$PROJECT_DIR$/web/Rear-label.jsp" />
+        <option value="$PROJECT_DIR$/web/First-label.jsp" />
+        <option value="$PROJECT_DIR$/web/Rear-label-show.jsp" />
       </list>
     </option>
   </component>
@@ -140,9 +249,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="AndroidView" />
-      <pane id="Scope" />
-      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -189,29 +295,46 @@
               <item name="web" type="462c0819:PsiDirectoryNode" />
               <item name="backup_jsp_file" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="Patent_AIDS" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Patent_AIDS" type="462c0819:PsiDirectoryNode" />
+              <item name="web" type="462c0819:PsiDirectoryNode" />
+              <item name="img" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Patent_AIDS" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Patent_AIDS" type="462c0819:PsiDirectoryNode" />
+              <item name="web" type="462c0819:PsiDirectoryNode" />
+              <item name="js" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
+      <pane id="AndroidView" />
       <pane id="PackagesPane" />
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="project.structure.last.edited" value="Modules" />
-    <property name="project.structure.proportion" value="0.0" />
-    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/web" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="D:\Users\Administrator\IdeaProjects\Patent_AIDS\web\backup_jsp_file" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\IdeaProjects\Patent_AIDS\web\img" />
       <recent name="D:\Users\Administrator\IdeaProjects\Patent_AIDS\.idea" />
       <recent name="D:\Users\Administrator\IdeaProjects\Patent_AIDS\web" />
       <recent name="D:\Users\Administrator\IdeaProjects\Patent_AIDS\src" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Users\Administrator\IdeaProjects\Patent_AIDS\web\backup_jsp_file" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -226,7 +349,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Tomcat Server.Tomcat 8.5.31">
+  <component name="RunManager" selected="Application.test">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="HTML_USED" value="false" />
       <option name="WIDTH" value="400" />
@@ -425,14 +548,15 @@
       <updated>1642601786406</updated>
       <workItem from="1642601790967" duration="3198000" />
       <workItem from="1642678850148" duration="11605000" />
+      <workItem from="1642735765562" duration="6786000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="14803000" />
+    <option name="totallyTimeSpent" value="21589000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-4" y="-4" width="1448" height="864" extended-state="6" />
+    <frame x="-4" y="-4" width="1928" height="1044" extended-state="6" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -444,8 +568,8 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32769832" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32665965" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -473,10 +597,70 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="XDebuggerManager">
-    <breakpoint-manager />
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Service/Replace_First_label_demo.java</url>
+          <line>145</line>
+          <properties />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/web/First-label.jsp</url>
+          <line>152</line>
+          <properties />
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/Service/Replace_First_label_demo.java</url>
+          <line>175</line>
+          <properties class="Service.Replace_First_label_demo" method="Unlabeled_Extract_topic">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="3" />
+    </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/javabean/test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="351">
+          <caret line="13" column="0" lean-forward="false" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Service/RepalceIPMI_First_label.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1323">
+          <caret line="49" column="0" lean-forward="true" selection-start-line="49" selection-start-column="0" selection-end-line="49" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Service/Replace_First_label_demo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2322">
+          <caret line="86" column="26" lean-forward="true" selection-start-line="86" selection-start-column="26" selection-end-line="86" selection-end-column="26" />
+          <folding>
+            <element signature="method#Forward_Replacement_instructions#0;class#Replace_First_label_demo#0" expanded="false" />
+            <element signature="method#Repair_old_and_new#0;class#Replace_First_label_demo#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Servlet/replace_First_label.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3024">
+          <caret line="112" column="64" lean-forward="false" selection-start-line="112" selection-start-column="64" selection-end-line="112" selection-end-column="64" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/javabean/test.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -489,26 +673,11 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/web/Writing.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web/Show-phrases.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/web/Writing.jsp" />
+    <entry file="file://$PROJECT_DIR$/web/Show-phrases.jsp" />
     <entry file="file://$PROJECT_DIR$/web/index.jsp">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1219">
@@ -533,38 +702,8 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/web/Writing.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web/Show-phrases.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web/Rear-label.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="110">
-          <caret line="352" column="51" lean-forward="true" selection-start-line="352" selection-start-column="51" selection-end-line="352" selection-end-column="51" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web/First-label.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/web/Writing.jsp" />
+    <entry file="file://$PROJECT_DIR$/web/Show-phrases.jsp" />
     <entry file="file://$PROJECT_DIR$/web/backup_jsp_file/JieShao.jsp">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1298">
@@ -573,43 +712,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/web/index.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="23">
-          <caret line="22" column="0" lean-forward="false" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/web/css/bootstrap.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/javabean/test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="23">
-          <caret line="19" column="0" lean-forward="false" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Service/RepalceIPMI_First_label.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="263">
-          <caret line="52" column="19" lean-forward="false" selection-start-line="52" selection-start-column="19" selection-end-line="52" selection-end-column="19" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Service/Replace_First_label_demo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="156">
-          <caret line="86" column="43" lean-forward="true" selection-start-line="86" selection-start-column="43" selection-end-line="86" selection-end-column="43" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -617,17 +723,124 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="276">
           <caret line="12" column="0" lean-forward="true" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Service/RepalceIPMI_First_label.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="428">
+          <caret line="55" column="0" lean-forward="false" selection-start-line="55" selection-start-column="0" selection-end-line="55" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/javabean/test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="81">
+          <caret line="10" column="0" lean-forward="true" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/js/hovertreewelcome.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="2495" lean-forward="false" selection-start-line="0" selection-start-column="2495" selection-end-line="0" selection-end-column="2495" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/test.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Service/Replace_First_label_demo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="196">
+          <caret line="144" column="18" lean-forward="false" selection-start-line="144" selection-start-column="18" selection-end-line="144" selection-end-column="18" />
           <folding>
-            <element signature="e#111#112#0" expanded="true" />
-            <element signature="e#152#153#0" expanded="true" />
+            <element signature="method#Forward_Replacement_instructions#0;class#Replace_First_label_demo#0" expanded="false" />
+            <element signature="method#Repair_old_and_new#0;class#Replace_First_label_demo#0" expanded="false" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Service/replace_demo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-246">
+          <caret line="262" column="9" lean-forward="false" selection-start-line="262" selection-start-column="9" selection-end-line="262" selection-end-column="9" />
+          <folding>
+            <element signature="method#clean_cizu#0;class#replace_demo#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Servlet/replace.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-4332">
+          <caret line="19" column="13" lean-forward="false" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="13" />
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Servlet/replace_First_label.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1674">
-          <caret line="112" column="64" lean-forward="false" selection-start-line="112" selection-start-column="64" selection-end-line="112" selection-end-column="64" />
+        <state relative-caret-position="-2043">
+          <caret line="88" column="75" lean-forward="false" selection-start-line="88" selection-start-column="75" selection-end-line="88" selection-end-column="75" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/First-label-show.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="347">
+          <caret line="14" column="50" lean-forward="false" selection-start-line="14" selection-start-column="50" selection-end-line="14" selection-end-column="50" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/First-label.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-72">
+          <caret line="268" column="0" lean-forward="false" selection-start-line="268" selection-start-column="0" selection-end-line="268" selection-end-column="0" />
+          <folding>
+            <element signature="e#3002#3128#0#HTML" expanded="false" />
+            <element signature="e#3252#3379#0#HTML" expanded="false" />
+            <element signature="n#style#0;n#a#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/index.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="567">
+          <caret line="21" column="21" lean-forward="false" selection-start-line="21" selection-start-column="21" selection-end-line="21" selection-end-column="21" />
+          <folding>
+            <element signature="n#script#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/Rear-label.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="293">
+          <caret line="265" column="71" lean-forward="false" selection-start-line="265" selection-start-column="71" selection-end-line="265" selection-end-column="71" />
+          <folding>
+            <element signature="n#style#0;n#a#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/Rear-label-show.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="428">
+          <caret line="16" column="7" lean-forward="false" selection-start-line="16" selection-start-column="7" selection-end-line="16" selection-end-column="7" />
           <folding />
         </state>
       </provider>
@@ -638,7 +851,7 @@
       <state key="ArtifactsStructureConfigurable.UI">
         <settings>
           <artifact-editor />
-          <last-edited>Patent_AIDS:war exploded</last-edited>
+          <last-edited>Patent_AIDS:war</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
@@ -692,7 +905,6 @@
             <option name="proportions">
               <list>
                 <option value="0.2" />
-                <option value="0.6" />
               </list>
             </option>
           </splitter-proportions>
@@ -700,6 +912,7 @@
       </state>
       <state key="ProjectLibrariesConfigurable.UI">
         <settings>
+          <last-edited>lib</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
